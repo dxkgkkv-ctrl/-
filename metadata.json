@@ -1,0 +1,6 @@
+{
+  "name": "کمشک جیپیتی",
+  "description": "کمشک جیپیتی؛ هوش مصنوعی جامع برای انجام همه کارها (چت جی‌پی‌تی، تولید تصویر، طراحی لوگو، ویرایش عکس، برنامه‌نویسی و ساخت اسناد)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

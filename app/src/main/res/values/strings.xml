@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">کمشک جیپیتی</string>
+    <string name="slogan">کمشک جیپیتی؛ هوش مصنوعی برای انجام همه کارها</string>
+    <string name="welcome_title">به کمشک جیپیتی خوش آمدید</string>
+    <string name="chat_tab">گفتگو</string>
+    <string name="image_tab">تولید تصویر</string>
+    <string name="logo_tab">لوگو ساز</string>
+    <string name="editor_tab">ویرایشگر عکس</string>
+    <string name="coding_tab">کدنویسی</string>
+    <string name="document_tab">اسناد</string>
+    <string name="content_tab">تولید محتوا</string>
+    <string name="profile_tab">پروفایل</string>
+    <string name="admin_tab">پنل مدیریت</string>
+    <string name="error_model">خطا در دریافت پاسخ از مدل هوش مصنوعی.</string>
+</resources>
